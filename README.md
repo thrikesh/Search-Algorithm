@@ -96,6 +96,7 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
+
 ## Sample Input and Output
 <br>![output](./ex3(b)(p).png)
 ## Result
