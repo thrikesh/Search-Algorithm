@@ -98,11 +98,5 @@ else:
 ```
 ## Sample Input and Output
 <br>![output](./ex3(b)(p).png)
-
-
-
-
-
-
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
