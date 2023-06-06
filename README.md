@@ -98,6 +98,11 @@ else:
 ```
 
 ## Sample Input and Output
-<br>![output](./ex3(b)(p).png)
+i)	#Use a linear search method to match the item in a list.
+<br>![output](./ex3(b)(a)(p).png)
+ii)	# Find the element in a list using Binary Search(Iterative Method).
+<br>![output](./ex3(b)(b)(p).png)
+iii)	# Find the element in a list using Binary Search (recursive Method).
+<br>![output](./ex3(b)(c)(p).png)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
